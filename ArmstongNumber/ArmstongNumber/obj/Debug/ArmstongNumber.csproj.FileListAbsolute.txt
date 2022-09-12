@@ -1,0 +1,6 @@
+C:\Users\a\RiderProjects\ArmstongNumber\ArmstongNumber\ArmstongNumber\obj\Debug\ArmstongNumber.csproj.AssemblyReference.cache
+C:\Users\a\RiderProjects\ArmstongNumber\ArmstongNumber\ArmstongNumber\obj\Debug\ArmstongNumber.csproj.CoreCompileInputs.cache
+C:\Users\a\RiderProjects\ArmstongNumber\ArmstongNumber\ArmstongNumber\bin\Debug\ArmstongNumber.dll
+C:\Users\a\RiderProjects\ArmstongNumber\ArmstongNumber\ArmstongNumber\bin\Debug\ArmstongNumber.pdb
+C:\Users\a\RiderProjects\ArmstongNumber\ArmstongNumber\ArmstongNumber\obj\Debug\ArmstongNumber.dll
+C:\Users\a\RiderProjects\ArmstongNumber\ArmstongNumber\ArmstongNumber\obj\Debug\ArmstongNumber.pdb
